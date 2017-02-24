@@ -40,3 +40,5 @@ https://github.com/MSGM-GURU/lesson1.git
 學了就是你的，誰也偷不走的。
 
 git help：https://goo.gl/dt0bwp
+
+github desktop：https://desktop.github.com/
